@@ -6,9 +6,9 @@ function multiply(a, b) { return a * b }
 
 function divide(a, b) { return a / b }
 
-function inc(n) { n += 1 }
+function inc(n) { return n += 1 }
 
-function dec(n) { n -= 1 }
+function dec(n) { return -= 1 }
 
 function makeInt() {}
 
