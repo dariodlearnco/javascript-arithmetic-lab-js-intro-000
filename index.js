@@ -1,14 +1,14 @@
-function add () {}
+function add(a, b) { return a + b }
 
-function subtract () {}
+function subtract(a, b) { return a - b }
 
-function multiplies () {}
+function multiply(a, b) { return a * b }
 
-function divides () {}
+function divide(a, b) { return a / b }
 
-function inc() {}
+function inc(n) { n += 1 }
 
-function dec() {}
+function dec(n) { n -= 1 }
 
 function makeInt() {}
 
